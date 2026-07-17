@@ -1,0 +1,25 @@
+# Ren'Py runtime / personal data
+cache/
+saves/
+*.rpyb
+*.rpyc.bak
+*.save
+*.save*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.log
+
+# Local env / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials*
