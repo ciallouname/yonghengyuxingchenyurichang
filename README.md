@@ -1,6 +1,5 @@
-# 永恒与星辰与日常 / Our Brief Eternity
+# 永恒与星辰与日常
 
-Ren'Py 视觉小说。日常向恋爱故事。
 
 ## 下载
 
@@ -15,8 +14,7 @@ Ren'Py 视觉小说。日常向恋爱故事。
 
 ## 关键词
 
-永恒与星辰与日常 · Our Brief Eternity · Ren'Py · 视觉小说 · Visual Novel · 恋爱 · 日常 · galgame · ciallouname
-
+永恒与星辰与日常 · Ren'Py · 视觉小说 · 恋爱 · 日常 · galgame 
 ## 仓库说明
 
 本仓库为游戏资源与脚本目录（`game/`）。完整可运行包请从 Releases 获取。
